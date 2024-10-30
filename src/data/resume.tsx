@@ -8,9 +8,9 @@ export const DATA = {
   location: "Medellín, Colombia",
   locationLink: "https://www.google.com/maps/place/Medell%C3%ADn",
   description:
-    "Backend Software Developer. Constantly growing and achieving goals.",
+    "Backend Software Developer. En constante crecimiento y conquistando de metas.",
   summary:
-    'In mid-September 2023, I started my training as a Java backend software developer. During this time, I have acquired fundamental knowledge in technologies such as Spring Boot, Spring Cloud, clean software design principles, and microservices. My apprenticeship and training took place at Riwi, in Medellín, where we worked more as a professional development team than as students or trainees. Although my training is self-taught, I have dedicated many hours to perfect my backend skills. I am looking for opportunities as a junior developer where I can stand out and demonstrate my skills. My goal is to continue to grow professionally and contribute to challenging and innovative projects.',
+    'A mediados de septiembre de 2023, comencé mi formación como desarrollador de software Java backend. Durante este tiempo, he adquirido conocimientos fundamentales en tecnologías como Spring Boot, Spring Cloud, principios de diseño limpio de software y microservicios. Mi aprendizaje y formación tuvo lugar en Riwi, en Medellín, donde trabajamos más como un equipo de desarrollo profesional que como estudiantes o aprendices. Estoy buscando oportunidades como desarrollador junior donde pueda destacar y demostrar mis habilidades. Mi objetivo es seguir creciendo profesionalmente y contribuir a proyectos desafiantes e innovadores.',
   avatarUrl: "/me.jpg",
   skills: [
     "Java",
@@ -34,7 +34,7 @@ export const DATA = {
   ],
   contact: {
     email: "leandro1991.9@gmail.com",
-    tel: "+573138319975",
+    tel: "tel:+573138319975",
     social: {
       GitHub: {
         name: "GitHub",
@@ -84,7 +84,7 @@ export const DATA = {
       start: "Sep 2023",
       end: "Nov 2024",
       description:
-        "I acquired fundamental knowledge in backend development using Java and Spring Boot. I developed and maintained scalable microservices using Spring Cloud, ensuring system integrity and efficiency. I implemented SOLID principles and design patterns to ensure clean and maintainable code. I collaborated in a team environment, working closely with colleagues to design and implement effective solutions. I participated in code review and debugging sessions to improve software quality and share knowledge with the team.",
+        "Adquirí conocimientos fundamentales en desarrollo backend usando Java y Spring Boot. Desarrollé y mantuve microservicios escalables usando Spring Cloud, asegurando la integridad y eficiencia del sistema. Implementé principios SOLID y patrones de diseño para garantizar un código limpio y mantenible. Colaboré en un entorno de equipo, trabajando estrechamente con colegas para diseñar e implementar soluciones efectivas. Participé en sesiones de revisión y depuración de código para mejorar la calidad del software y compartir conocimientos con el equipo.",
     },
   ],
   education: [
