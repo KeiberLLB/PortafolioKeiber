@@ -98,7 +98,7 @@ export const DATA = {
     },
     {
       school: "Udemy",
-      href: "https://www.udemy.com/course/domina-el-mapeo-de-objetos-mapstruct-lombok-y-spring-boot",
+      href: "https://www.udemy.com/user/keiber-leandro-lazaro-bastos/",
       degree: "Domina el Mapeo de Objetos: MapStruct, Lombok y Spring Boot",
       logoUrl: "/udemy.png",
       start: "2023",
@@ -106,7 +106,7 @@ export const DATA = {
     },
     {
       school: "Udemy",
-      href: "https://www.udemy.com/course/curso-completo-junit-mockito-spring-boot-test",
+      href: "https://www.udemy.com/user/keiber-leandro-lazaro-bastos/",
       degree: "Guía Completa JUnit y Mockito incluye Spring Boot Test",
       logoUrl: "/udemy.png",
       start: "2024",
