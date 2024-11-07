@@ -115,30 +115,30 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Chat Collect",
-      href: "https://chatcollect.com",
-      dates: "Jan 2024 - Feb 2024",
+      title: "Riwi Be a Coder",
+      href: "https://riwi.io",
+      dates: "Sep 2023 - Oct 2024",
       active: true,
       description:
-        "With the release of the [OpenAI GPT Store](https://openai.com/blog/introducing-the-gpt-store), I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
+        "En este proyecto demuestro mi evolución en el desarrollo de software, abarcando desde los fundamentos de programación hasta la creación de APIs REST y el uso de tecnologías avanzadas como Spring Boot y MapStruct. Incluye proyectos que reflejan mis habilidades y conocimientos adquiridos.",
       technologies: [
-        "Next.js",
+        "Java",
+        "Spring Boot",
+        "Spring Cloud",
+        "JavaScript",
         "Typescript",
-        "PostgreSQL",
-        "Prisma",
-        "TailwindCSS",
-        "Stripe",
-        "Shadcn UI",
-        "Magic UI",
+        "CSS - HTML",
+        "SASS",
       ],
       links: [
         {
-          type: "Website",
-          href: "https://chatcollect.com",
-          icon: <Icons.github className="size-3" />,
+          type: "Github",
+          href: "https://github.com/KeiberLLB/RIWI.git",
+          icon: <Icons.github className="h-4 w-4" />,
+          
         },
       ],
-      image: "/me.jpg",
+      image: "/riwiRect.png",
       video:
         "",
     },
