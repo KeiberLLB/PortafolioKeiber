@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Backend Software Developer. En constante crecimiento y conquistando de metas.",
   summary:
-    'A mediados de septiembre de 2023, comencé mi formación como desarrollador de software Java backend. Durante este tiempo, he adquirido conocimientos fundamentales en tecnologías como Spring Boot, Spring Cloud, principios de diseño limpio de software y microservicios. Mi aprendizaje y formación tuvo lugar en Riwi, en Medellín, donde trabajamos más como un equipo de desarrollo profesional que como estudiantes o aprendices. Estoy buscando oportunidades como desarrollador junior donde pueda destacar y demostrar mis habilidades. Mi objetivo es seguir creciendo profesionalmente y contribuir a proyectos desafiantes e innovadores.',
+    'Soy un desarrollador backend en Java con conocimientos en Spring Boot, Spring Cloud, microservicios y diseño limpio de software. Me he formado a través de proyectos prácticos y experiencia en Riwi, Medellín, donde trabajamos con metodologías ágiles y buenas prácticas de desarrollo en un entorno que simula equipos profesionales. Tengo una mentalidad autodidacta y un fuerte compromiso con el aprendizaje continuo. Me especializo en la construcción y prueba de APIs REST, aplicando JUnit, Mockito y JPA para garantizar la calidad del código. Actualmente, busco oportunidades como desarrollador backend junior donde pueda aplicar mis habilidades, seguir creciendo profesionalmente y contribuir a proyectos desafiantes e innovadores.',
   avatarUrl: "/me.jpg",
   skills: [
     "Java",
