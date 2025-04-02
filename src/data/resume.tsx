@@ -9,8 +9,14 @@ export const DATA = {
   locationLink: "https://www.google.com/maps/place/Medell%C3%ADn",
   description:
     "Backend Software Developer. En constante crecimiento y conquistando de metas.",
-  summary:
-    'Soy un desarrollador backend en Java con conocimientos en Spring Boot, Spring Cloud, microservicios y diseño limpio de software. Me he formado a través de proyectos prácticos y experiencia en Riwi, Medellín, donde trabajamos con metodologías ágiles y buenas prácticas de desarrollo en un entorno que simula equipos profesionales. Tengo una mentalidad autodidacta y un fuerte compromiso con el aprendizaje continuo. Me especializo en la construcción y prueba de APIs REST, aplicando JUnit, Mockito y JPA para garantizar la calidad del código. Actualmente, busco oportunidades como desarrollador backend junior donde pueda aplicar mis habilidades, seguir creciendo profesionalmente y contribuir a proyectos desafiantes e innovadores.',
+  summary: ["💻 Desarrollador Backend Java con experiencia en Spring Boot, JPA y bases de datos SQL. Especializado en la construcción de API REST robustas y la implementación de pruebas automatizadas con JUnit y Mockito.",
+"🔹 Optimización de consultas SQL en MySQL y SQLite",
+"🔹 Autenticación segura con JWT y Spring Security",
+"🔹 Gestión de APIs con Swagger y OpenAPI",
+"🔹 Herramientas: Git, RestTemplate, WebTestClient",
+"Actualmente en búsqueda de mi primera experiencia laboral formal en desarrollo backend. Apasionado por la tecnología y el aprendizaje continuo. 🚀"].join("\n")
+
+    ,
   avatarUrl: "/me.jpg",
   skills: [
     "Java",
