@@ -10,11 +10,11 @@ export const DATA = {
   description:
     "Backend Software Developer. En constante crecimiento y conquistando de metas.",
   summary:
-    `💻 Desarrollador Backend Java con experiencia en Spring Boot, JPA y bases de datos SQL. Especializado en la construcción de API REST robustas y la implementación de pruebas automatizadas con JUnit y Mockito.
-    🔹 Optimización de consultas SQL en MySQL y SQLite
-    🔹 Autenticación segura con JWT y Spring Security
-    🔹 Gestión de APIs con Swagger y OpenAPI
-    🔹 Herramientas: Git, RestTemplate, WebTestClient
+    `💻 Desarrollador Backend Java con experiencia en Spring Boot, JPA y bases de datos SQL. Especializado en la construcción de API REST robustas y la implementación de pruebas automatizadas con JUnit y Mockito.\n
+    🔹 Optimización de consultas SQL en MySQL y SQLite\n
+    🔹 Autenticación segura con JWT y Spring Security\n
+    🔹 Gestión de APIs con Swagger y OpenAPI\n
+    🔹 Herramientas: Git, RestTemplate, WebTestClient\n
     Actualmente en búsqueda de mi primera experiencia laboral formal en desarrollo backend. Apasionado por la tecnología y el aprendizaje continuo. 🚀`,
   avatarUrl: "/me.jpg",
   skills: [
