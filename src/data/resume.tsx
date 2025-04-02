@@ -9,19 +9,14 @@ export const DATA = {
   locationLink: "https://www.google.com/maps/place/Medell%C3%ADn",
   description:
     "Backend Software Developer. En constante crecimiento y conquistando de metas.",
-  summary: `
-    💻 Desarrollador Backend Java con experiencia en Spring Boot, JPA y bases de datos SQL. Especializado en la construcción de API REST robustas y la implementación de pruebas automatizadas con JUnit y Mockito.
-    <br><br>
-    🔹 Optimización de consultas SQL en MySQL y SQLite
-    <br><br>
-    🔹 Autenticación segura con JWT y Spring Security
-    <br><br>
-    🔹 Gestión de APIs con Swagger y OpenAPI
-    <br><br>
-    🔹 Herramientas: Git, RestTemplate, WebTestClient
-    <br><br>
-    Actualmente en búsqueda de mi primera experiencia laboral formal en desarrollo backend. Apasionado por la tecnología y el aprendizaje continuo. 🚀
-  `,
+  summary: [
+    "💻 Desarrollador Backend Java con experiencia en Spring Boot, JPA y bases de datos SQL. Especializado en la construcción de API REST robustas y la implementación de pruebas automatizadas con JUnit y Mockito.",
+    "🔹 Optimización de consultas SQL en MySQL y SQLite",
+    "🔹 Autenticación segura con JWT y Spring Security",
+    "🔹 Gestión de APIs con Swagger y OpenAPI",
+    "🔹 Herramientas: Git, RestTemplate, WebTestClient",
+    "Actualmente en búsqueda de mi primera experiencia laboral formal en desarrollo backend. Apasionado por la tecnología y el aprendizaje continuo. 🚀"
+  ],
   avatarUrl: "/me.jpg",
   skills: [
     "Java",
